@@ -1,0 +1,5 @@
+ultralytics
+opencv-python>=4.6.0
+ultralytics-thop>=2.0.0
+fastapi==0.115.12
+uvicorn[standard]
